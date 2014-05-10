@@ -1,6 +1,6 @@
 title:    "Rioki's Corner"
 url:      http://gerhardm.github.io/ASHI/
-baseurl:  http://gerhardm.github.io/ASHI/
+baseurl:  /ASHI
 author:   Sean Farrell
 email:    sean.farrell@rioki.org
 markdown: kramdown
